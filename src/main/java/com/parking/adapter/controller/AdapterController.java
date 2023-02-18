@@ -7,7 +7,7 @@ public class AdapterController {
 
     public static void main(String[] args) {
 
-        System.out.println("controller");
+        System.out.println("controllerkk");
     }
 
 }
